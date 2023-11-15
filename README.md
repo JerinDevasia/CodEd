@@ -1,3 +1,3 @@
 # CodEd
 
-###A simple html, css and js code editor
+### A simple html, css and js code editor
